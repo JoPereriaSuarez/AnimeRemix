@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LogoInstitucional.unity
+    guid: ecb4de475a48b6a43bbe3c9f32ef60e6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e5d1cbd890423d44b99c68cf750a39e3
+  - enabled: 1
+    path: Assets/Scenes/Menu_Canciones.unity
+    guid: 2b185b373a5a85c469bfa86abb78ed93
+  - enabled: 1
+    path: Assets/Scenes/Level_Nizemonogatai.unity
+    guid: 4bd73e1b47f55644fb00e2638409890d
+  - enabled: 1
+    path: Assets/Scenes/Level_ShokugekiNoSoma.unity
+    guid: dfe89c745213c0547937904077c0e1bb
+  - enabled: 1
+    path: Assets/Scenes/SceneLoader.unity
+    guid: 79a4ceb1dd449e44a810ae2770ed5086
+  - enabled: 1
+    path: Assets/Scenes/RankingScream.unity
+    guid: 2f306644d92299545ac58ddd0ba74a7a
+  - enabled: 1
+    path: Assets/Scenes/LoginPlayer.unity
+    guid: ce032a6fb82a3f14d944dcf5893406ae
+  - enabled: 1
+    path: Assets/Scenes/Level_Kakegurui.unity
+    guid: 3e869efb1561d3346afb254397a5d7e3
+  - enabled: 1
+    path: Assets/Scenes/Level_SakuraCardCaptor.unity
+    guid: 5f3910d4c0a67da4bb22d253c2361039
+  - enabled: 1
+    path: Assets/Scenes/Level_Attack_on_Titan.unity
+    guid: f204c3f08f3a1524f97cc6d3e5d88bc9

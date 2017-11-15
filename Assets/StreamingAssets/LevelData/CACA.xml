@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<NoteContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <notes>
+    <NoteData id="1030">
+      <data>
+        <data>0</data>
+        <data>0.76</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1031">
+      <data>
+        <data>0</data>
+        <data>1.52</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1032">
+      <data>
+        <data>0</data>
+        <data>2.28</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1033">
+      <data>
+        <data>0</data>
+        <data>3.04</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1034">
+      <data>
+        <data>0</data>
+        <data>3.8</data>
+        <data>8</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1035">
+      <data>
+        <data>0</data>
+        <data>4.56</data>
+        <data>8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1036">
+      <data>
+        <data>0</data>
+        <data>5.32</data>
+        <data>8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1037">
+      <data>
+        <data>0</data>
+        <data>6.08</data>
+        <data>8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1040">
+      <data>
+        <data>0</data>
+        <data>6.5</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1039">
+      <data>
+        <data>0</data>
+        <data>6.84</data>
+        <data>6</data>
+        <data>0.76</data>
+      </data>
+    </NoteData>
+    <NoteData id="1038">
+      <data>
+        <data>0</data>
+        <data>6.84</data>
+        <data>-6</data>
+        <data>0.76</data>
+      </data>
+    </NoteData>
+    <NoteData id="1041">
+      <data>
+        <data>0</data>
+        <data>7.6</data>
+        <data>0</data>
+        <data>1.2</data>
+      </data>
+    </NoteData>
+    <NoteData id="1042">
+      <data>
+        <data>0</data>
+        <data>9.2</data>
+        <data>2</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1043">
+      <data>
+        <data>0</data>
+        <data>9.53</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1044">
+      <data>
+        <data>0</data>
+        <data>9.88</data>
+        <data>-2</data>
+        <data>0.76</data>
+      </data>
+    </NoteData>
+    <NoteData id="1045">
+      <data>
+        <data>0</data>
+        <data>11.4</data>
+        <data>-4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1046">
+      <data>
+        <data>0</data>
+        <data>11.4</data>
+        <data>4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1049">
+      <data>
+        <data>0</data>
+        <data>11.78</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1050">
+      <data>
+        <data>0</data>
+        <data>12.2</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1048">
+      <data>
+        <data>0</data>
+        <data>12.6</data>
+        <data>8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1047">
+      <data>
+        <data>0</data>
+        <data>12.6</data>
+        <data>-8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1001">
+      <data>
+        <data>0</data>
+        <data>13.5893936</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1002">
+      <data>
+        <data>0</data>
+        <data>13.9734</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1003">
+      <data>
+        <data>0</data>
+        <data>14.2720718</data>
+        <data>2</data>
+        <data>0.8</data>
+      </data>
+    </NoteData>
+    <NoteData id="1004">
+      <data>
+        <data>0</data>
+        <data>15.4454288</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1005">
+      <data>
+        <data>0</data>
+        <data>15.7227669</data>
+        <data>2</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1006">
+      <data>
+        <data>0</data>
+        <data>16.0427723</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1007">
+      <data>
+        <data>0</data>
+        <data>16.3627777</data>
+        <data>-2</data>
+        <data>1.4792341</data>
+      </data>
+    </NoteData>
+    <NoteData id="1052">
+      <data>
+        <data>0</data>
+        <data>18.62</data>
+        <data>2</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1051">
+      <data>
+        <data>0</data>
+        <data>18.62</data>
+        <data>6</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1008">
+      <data>
+        <data>0</data>
+        <data>19.536026</data>
+        <data>-4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1009">
+      <data>
+        <data>0</data>
+        <data>19.9840336</data>
+        <data>-4</data>
+        <data>1.2</data>
+      </data>
+    </NoteData>
+    <NoteData id="1054">
+      <data>
+        <data>0</data>
+        <data>21.66</data>
+        <data>6</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1053">
+      <data>
+        <data>0</data>
+        <data>21.66</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1010">
+      <data>
+        <data>0</data>
+        <data>22.5227432</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1011">
+      <data>
+        <data>0</data>
+        <data>22.8427486</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1012">
+      <data>
+        <data>0</data>
+        <data>23.1840878</data>
+        <data>2</data>
+        <data>0.4806561</data>
+      </data>
+    </NoteData>
+    <NoteData id="1013">
+      <data>
+        <data>0</data>
+        <data>23.9521</data>
+        <data>4</data>
+        <data>0.9111675</data>
+      </data>
+    </NoteData>
+    <NoteData id="1017">
+      <data>
+        <data>0</data>
+        <data>25.52542</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1014">
+      <data>
+        <data>0</data>
+        <data>25.5254211</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1015">
+      <data>
+        <data>0</data>
+        <data>25.8454266</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1018">
+      <data>
+        <data>0</data>
+        <data>25.84543</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1019">
+      <data>
+        <data>0</data>
+        <data>26.22943</data>
+        <data>4</data>
+        <data>1</data>
+      </data>
+    </NoteData>
+    <NoteData id="1016">
+      <data>
+        <data>0</data>
+        <data>26.2294331</data>
+        <data>2</data>
+        <data>1</data>
+      </data>
+    </NoteData>
+    <NoteData id="1020">
+      <data>
+        <data>0</data>
+        <data>27.4773922</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1021">
+      <data>
+        <data>0</data>
+        <data>27.77</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1022">
+      <data>
+        <data>0</data>
+        <data>28.1</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1024">
+      <data>
+        <data>0</data>
+        <data>28.48</data>
+        <data>-4</data>
+        <data>1.22</data>
+      </data>
+    </NoteData>
+    <NoteData id="1025">
+      <data>
+        <data>0</data>
+        <data>28.48</data>
+        <data>-2</data>
+        <data>1.22</data>
+      </data>
+    </NoteData>
+    <NoteData id="1025">
+      <data>
+        <data>0</data>
+        <data>30.581377</data>
+        <data>-8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1026">
+      <data>
+        <data>0</data>
+        <data>30.9440479</data>
+        <data>-6</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1027">
+      <data>
+        <data>0</data>
+        <data>31.285387</data>
+        <data>-4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1028">
+      <data>
+        <data>0</data>
+        <data>32.2186852</data>
+        <data>6</data>
+        <data>0.4</data>
+      </data>
+    </NoteData>
+    <NoteData id="1029">
+      <data>
+        <data>0</data>
+        <data>32.7733154</data>
+        <data>4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1055">
+      <data>
+        <data>0</data>
+        <data>33.44</data>
+        <data>2</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1056">
+      <data>
+        <data>0</data>
+        <data>34.01</data>
+        <data>0</data>
+        <data>1.52</data>
+      </data>
+    </NoteData>
+    <NoteData id="1057">
+      <data>
+        <data>0</data>
+        <data>34.01</data>
+        <data>-4</data>
+        <data>1.52</data>
+      </data>
+    </NoteData>
+    <NoteData id="1063">
+      <data>
+        <data>0</data>
+        <data>36.48</data>
+        <data>-8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1058">
+      <data>
+        <data>0</data>
+        <data>36.86</data>
+        <data>-4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1059">
+      <data>
+        <data>0</data>
+        <data>37.113</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1061">
+      <data>
+        <data>0</data>
+        <data>37.619</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1062">
+      <data>
+        <data>0</data>
+        <data>37.872</data>
+        <data>4</data>
+        <data>1.52</data>
+      </data>
+    </NoteData>
+    <NoteData id="1066">
+      <data>
+        <data>0</data>
+        <data>39.773</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1068">
+      <data>
+        <data>0</data>
+        <data>40.279</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1070">
+      <data>
+        <data>0</data>
+        <data>40.785</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1071">
+      <data>
+        <data>0</data>
+        <data>41.038</data>
+        <data>-4</data>
+        <data>1.19</data>
+      </data>
+    </NoteData>
+    <NoteData id="1074">
+      <data>
+        <data>0</data>
+        <data>42.557</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1075">
+      <data>
+        <data>0</data>
+        <data>43.063</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1077">
+      <data>
+        <data>0</data>
+        <data>43.569</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1078">
+      <data>
+        <data>0</data>
+        <data>43.822</data>
+        <data>2</data>
+        <data>1.19</data>
+      </data>
+    </NoteData>
+    <NoteData id="1079">
+      <data>
+        <data>0</data>
+        <data>45.557</data>
+        <data>4</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1080">
+      <data>
+        <data>0</data>
+        <data>46.569</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1081">
+      <data>
+        <data>0</data>
+        <data>46.822</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1082">
+      <data>
+        <data>0</data>
+        <data>47.075</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1085">
+      <data>
+        <data>0</data>
+        <data>47.075</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1083">
+      <data>
+        <data>0</data>
+        <data>47.834</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1084">
+      <data>
+        <data>0</data>
+        <data>47.834</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1078">
+      <data>
+        <data>0</data>
+        <data>48.593</data>
+        <data>-8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1079">
+      <data>
+        <data>0</data>
+        <data>48.973</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1080">
+      <data>
+        <data>0</data>
+        <data>49.226</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1088">
+      <data>
+        <data>0</data>
+        <data>49.479</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1081">
+      <data>
+        <data>0</data>
+        <data>49.732</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1082">
+      <data>
+        <data>0</data>
+        <data>49.985</data>
+        <data>4</data>
+        <data>1.52</data>
+      </data>
+    </NoteData>
+    <NoteData id="1083">
+      <data>
+        <data>0</data>
+        <data>51.756</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1087">
+      <data>
+        <data>0</data>
+        <data>52.009</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1084">
+      <data>
+        <data>0</data>
+        <data>52.262</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1085">
+      <data>
+        <data>0</data>
+        <data>52.768</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1086">
+      <data>
+        <data>0</data>
+        <data>53.021</data>
+        <data>-4</data>
+        <data>1.19</data>
+      </data>
+    </NoteData>
+    <NoteData id="1089">
+      <data>
+        <data>0</data>
+        <data>54.286</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1090">
+      <data>
+        <data>0</data>
+        <data>54.539</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1091">
+      <data>
+        <data>0</data>
+        <data>54.792</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1092">
+      <data>
+        <data>0</data>
+        <data>55.298</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1093">
+      <data>
+        <data>0</data>
+        <data>55.551</data>
+        <data>0</data>
+        <data>1.19</data>
+      </data>
+    </NoteData>
+    <NoteData id="1094">
+      <data>
+        <data>0</data>
+        <data>57.575</data>
+        <data>8</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1095">
+      <data>
+        <data>0</data>
+        <data>58.081</data>
+        <data>6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1096">
+      <data>
+        <data>0</data>
+        <data>58.334</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1097">
+      <data>
+        <data>0</data>
+        <data>58.587</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1098">
+      <data>
+        <data>0</data>
+        <data>58.84</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1099">
+      <data>
+        <data>0</data>
+        <data>58.84</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1100">
+      <data>
+        <data>0</data>
+        <data>59.599</data>
+        <data>-4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1101">
+      <data>
+        <data>0</data>
+        <data>59.599</data>
+        <data>-2</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1102">
+      <data>
+        <data>0</data>
+        <data>60.611</data>
+        <data>2</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1103">
+      <data>
+        <data>0</data>
+        <data>60.611</data>
+        <data>-2</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1104">
+      <data>
+        <data>0</data>
+        <data>61.37</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1105">
+      <data>
+        <data>0</data>
+        <data>61.37</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1106">
+      <data>
+        <data>0</data>
+        <data>61.623</data>
+        <data>-6</data>
+        <data>1.12</data>
+      </data>
+    </NoteData>
+    <NoteData id="1107">
+      <data>
+        <data>0</data>
+        <data>61.623</data>
+        <data>6</data>
+        <data>1.12</data>
+      </data>
+    </NoteData>
+    <NoteData id="1108">
+      <data>
+        <data>0</data>
+        <data>63.756</data>
+        <data>-6</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1109">
+      <data>
+        <data>0</data>
+        <data>63.756</data>
+        <data>6</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1110">
+      <data>
+        <data>0</data>
+        <data>64.515</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1111">
+      <data>
+        <data>0</data>
+        <data>64.515</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1112">
+      <data>
+        <data>0</data>
+        <data>64.768</data>
+        <data>-2</data>
+        <data>1.12</data>
+      </data>
+    </NoteData>
+    <NoteData id="1113">
+      <data>
+        <data>0</data>
+        <data>64.768</data>
+        <data>2</data>
+        <data>1.12</data>
+      </data>
+    </NoteData>
+    <NoteData id="1114">
+      <data>
+        <data>0</data>
+        <data>66.141</data>
+        <data>-6</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1115">
+      <data>
+        <data>0</data>
+        <data>66.394</data>
+        <data>-8</data>
+        <data>1.68</data>
+      </data>
+    </NoteData>
+    <NoteData id="1116">
+      <data>
+        <data>0</data>
+        <data>67.314</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1119">
+      <data>
+        <data>0</data>
+        <data>68.074</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1117">
+      <data>
+        <data>0</data>
+        <data>68.834</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1118">
+      <data>
+        <data>0</data>
+        <data>69.594</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1120">
+      <data>
+        <data>0</data>
+        <data>69.594</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1121">
+      <data>
+        <data>0</data>
+        <data>70.42</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1122">
+      <data>
+        <data>0</data>
+        <data>70.8</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1123">
+      <data>
+        <data>0</data>
+        <data>71.053</data>
+        <data>2</data>
+        <data>0.88</data>
+      </data>
+    </NoteData>
+    <NoteData id="1144">
+      <data>
+        <data>0</data>
+        <data>71.053</data>
+        <data>-6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1124">
+      <data>
+        <data>0</data>
+        <data>72.24</data>
+        <data>0</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1125">
+      <data>
+        <data>0</data>
+        <data>72.565</data>
+        <data>2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1145">
+      <data>
+        <data>0</data>
+        <data>72.565</data>
+        <data>-8</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1126">
+      <data>
+        <data>0</data>
+        <data>72.891</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1127">
+      <data>
+        <data>0</data>
+        <data>73.144</data>
+        <data>-2</data>
+        <data>1.52</data>
+      </data>
+    </NoteData>
+    <NoteData id="1129">
+      <data>
+        <data>0</data>
+        <data>75.531</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1128">
+      <data>
+        <data>0</data>
+        <data>75.531</data>
+        <data>-8</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1130">
+      <data>
+        <data>0</data>
+        <data>75.911</data>
+        <data>-6</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1131">
+      <data>
+        <data>0</data>
+        <data>76.291</data>
+        <data>-4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1132">
+      <data>
+        <data>0</data>
+        <data>77</data>
+        <data>6</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1134">
+      <data>
+        <data>0</data>
+        <data>77.253</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1133">
+      <data>
+        <data>0</data>
+        <data>77.253</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1136">
+      <data>
+        <data>0</data>
+        <data>77.56</data>
+        <data>0</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1135">
+      <data>
+        <data>0</data>
+        <data>77.56</data>
+        <data>-4</data>
+        <data>0.56</data>
+      </data>
+    </NoteData>
+    <NoteData id="1138">
+      <data>
+        <data>0</data>
+        <data>78.3652344</data>
+        <data>4</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1137">
+      <data>
+        <data>0</data>
+        <data>78.3652344</data>
+        <data>-2</data>
+        <data>0</data>
+      </data>
+    </NoteData>
+    <NoteData id="1139">
+      <data>
+        <data>0</data>
+        <data>78.61823</data>
+        <data>-2</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1140">
+      <data>
+        <data>0</data>
+        <data>78.61823</data>
+        <data>4</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1141">
+      <data>
+        <data>0</data>
+        <data>78.87123</data>
+        <data>0</data>
+        <data>0.02</data>
+      </data>
+    </NoteData>
+    <NoteData id="1143">
+      <data>
+        <data>0</data>
+        <data>79.12423</data>
+        <data>0</data>
+        <data>2.24</data>
+      </data>
+    </NoteData>
+  </notes>
+</NoteContainer>

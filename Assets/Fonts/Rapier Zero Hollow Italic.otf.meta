@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 305bdb47b554a31448f138da6f78d979
+timeCreated: 1508359247
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rapier Zero Hollow
+  fontNames:
+  - Rapier Zero Hollow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

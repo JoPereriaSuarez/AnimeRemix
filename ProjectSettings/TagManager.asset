@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ButtonUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - redBar
+  - greenBar
+  - blueBar
+  - yellowBar
+  - whiteBar
+  - leftBar
+  - rightBar
+  - downBar
+  - upBar
+  - redButton
+  - greenButton
+  - blueButton
+  - yellowButton
+  - leftButton
+  - rightButton
+  - downButton
+  - upButton
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TrackBars
+    uniqueID: 2840819533
+    locked: 0
+  - name: Bar
+    uniqueID: 1639843291
+    locked: 0
+  - name: Notes
+    uniqueID: 3927691613
+    locked: 0
+  - name: Message
+    uniqueID: 799014979
+    locked: 0

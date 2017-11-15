@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<RankingSongContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <data>
+    <RankingData value="1000000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="900000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="512000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="420000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="312000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="100000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="27000">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="3500">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="64">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+    <RankingData value="8">
+      <initials>
+        <initial>65</initial>
+        <initial>65</initial>
+        <initial>65</initial>
+      </initials>
+    </RankingData>
+  </data>
+</RankingSongContainer>
