@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Level_ShokugekiNoSoma.unity
+- path: Assets/Scenes/Menu_Canciones.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
