@@ -5,10 +5,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-BridgeOps/Assets/AssetStoreTools*
-BridgeOps/Assets/Screenshots*
-SwitchIL2CPPCache*
-SwitchIL2CPPStats*
+[Uu]serSettings/
+
 
 
 # Visual Studio 2015 cache directory
@@ -34,6 +32,7 @@ sysinfo.txt
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+*.log
 
 # Builds
 *.apk
