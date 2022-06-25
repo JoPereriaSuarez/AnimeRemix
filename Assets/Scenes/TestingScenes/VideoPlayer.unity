@@ -431,7 +431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -478,7 +478,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1482794861}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
@@ -831,11 +831,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   videoPlayer: {fileID: 1799803890}
-  videoClip: {fileID: 32900000, guid: 7576bc155b561a44caffcc4ecfcddc25, type: 3}
+  videoClip: {fileID: 32900000, guid: 331b6cfe56ecfa54db3e131d223d4b63, type: 3}
   audioSource: {fileID: 1797186578}
-  audioClip: {fileID: 8300000, guid: eacd3624d84ba3047b8ae71b290cbd02, type: 3}
-  bpm: 130
+  audioClip: {fileID: 8300000, guid: 36e667b355e3e0a45abeacb145f57e8a, type: 3}
+  beatSFX: {fileID: 8300000, guid: 1218e095a13aa0349bcdeb5f66d9f2f1, type: 3}
+  measureSFX: {fileID: 8300000, guid: 9e08966dc4c88354d922b6a4cf4970f6, type: 3}
+  bpm: 93
   measure: 4
+  initialOffset: 0.05
   onQuaterBeat:
     m_PersistentCalls:
       m_Calls:
@@ -927,7 +930,7 @@ VideoPlayer:
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_SkipOnDrop: 1
   m_Looping: 0
   m_WaitForFirstFrame: 1

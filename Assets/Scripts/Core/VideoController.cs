@@ -16,11 +16,17 @@ namespace AnimeRemix.Core
         private AudioSource audioSource;
         [SerializeField]
         private AudioClip audioClip;
+        [SerializeField]
+        private AudioClip beatSFX;
+        [SerializeField]
+        private AudioClip measureSFX;
 
         [SerializeField]
         private uint bpm = 141;
         [SerializeField]
         private ushort measure = 4;
+        [SerializeField]
+        private float initialOffset = 0;
 
         public UnityEvent onQuaterBeat = new();
         public UnityEvent onMeasure = new();
@@ -34,7 +40,7 @@ namespace AnimeRemix.Core
 
         private void Awake()
         {
-            beatSync = new(141, measure);
+            beatSync = new(bpm, initialOffset, measure);
             audioSource.playOnAwake = false;
             audioSource.clip = audioClip;
             videoPlayer.playOnAwake = false;
@@ -42,31 +48,42 @@ namespace AnimeRemix.Core
             onVideoPrepared = (source) =>
             {
                 beatSync.Start();
-                audioSource.PlayScheduled(beatSync.nextTick);
-                source.Play();
+                audioSource.PlayScheduled(beatSync.NextTick - initialOffset);
             };
             onBeatTicked = (dto) =>
             {
-                if(dto.bpm > previousBeat)
-                {
-                    previousBeat = dto.bpm;
-                    if(dto.measure > previousMeasure)
+                    if(dto.bpm == 1)
                     {
+                        videoPlayer.Play();
+                    }
+                    previousBeat = dto.bpm;
+                    if(dto.bpm == 1 || dto.bpm % measure == 1)
+                    {
+                        print(dto.bpm);
                         previousMeasure = dto.measure;
-                        onMeasure?.Invoke();
+                        GameObject _instance = new(nameof(measureSFX), typeof(AudioSource));
+                        AudioSource _sfxInstance = _instance.GetComponent<AudioSource>();
+                        _sfxInstance.playOnAwake = false;
+                        _sfxInstance.volume = 0.5f;
+                        _sfxInstance.clip = measureSFX;
+                        _sfxInstance.PlayScheduled(dto.time + 1 + initialOffset);
                         return;
                     }
-                    onQuaterBeat?.Invoke();
-                }
+                    // GameObject instance = new(nameof(beatSFX), typeof(AudioSource));
+                    // AudioSource sfxInstance = instance.GetComponent<AudioSource>();
+                    // sfxInstance.playOnAwake = false;
+                    // sfxInstance.volume = 0.5f;
+                    // sfxInstance.clip = beatSFX;
+                    // sfxInstance.PlayScheduled(dto.time + 1);
             };
         }
 
         private void Start()
         {
-            previousBeat = 1;
-            previousMeasure = 1;
+            previousBeat = 0;
+            previousMeasure = 0;
 
-            BeatSync.OnTicked += onBeatTicked;
+            OnTicked += onBeatTicked;
             videoPlayer.prepareCompleted += onVideoPrepared;
             videoPlayer.Prepare();
         }
